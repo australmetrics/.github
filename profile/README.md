@@ -24,4 +24,4 @@ Some components of our geospatial and ingestion stack are open-source to support
 > We bring frontier AI where it’s needed most: offline, explainable, and field-resilient.
 
 ---
-🔗 [LinkedIn](https://www.linkedin.com/company/australmetrics) · 🌐 [australmetrics.com](https://australmetrics.com) · 📫 rmessenger@australmetrics.cl
+🔗 [LinkedIn](https://www.linkedin.com/company/australmetrics) · 🌐 [australmetrics.cl](https://australmetrics.cl) · 📫 rmessenger@australmetrics.cl
